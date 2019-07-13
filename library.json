@@ -1,0 +1,14 @@
+{
+    "name": "ESP32Uuid",
+    "keywords": "uuid",
+    "description": "Uuid utility library for the ESP32",
+    "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/enigmaalgorithms/ESP32Uuid.git"
+    },
+    "frameworks": [ "arduino", "esp-idf"],
+    "platforms": [
+        "espressif32"
+    ]
+}

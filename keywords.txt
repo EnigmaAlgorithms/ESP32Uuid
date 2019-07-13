@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For ESP32Uuid
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ESP32Uuid	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+randomByte	KEYWORD2
+memfill	KEYWORD2
+mac	KEYWORD2
+uuid	KEYWORD2
+uuid3	KEYWORD2
+uuid4	KEYWORD2
+uuid5	KEYWORD2
+uuidToString	KEYWORD2
+convertCharToHex	KEYWORD2
+stringToUuid	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
